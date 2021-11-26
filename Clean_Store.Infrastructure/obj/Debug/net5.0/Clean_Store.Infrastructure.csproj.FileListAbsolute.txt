@@ -1,0 +1,12 @@
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\bin\Debug\net5.0\Clean_Store.Infrastructure.deps.json
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\bin\Debug\net5.0\Clean_Store.Infrastructure.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\bin\Debug\net5.0\ref\Clean_Store.Infrastructure.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\bin\Debug\net5.0\Clean_Store.Infrastructure.pdb
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\obj\Debug\net5.0\Clean_Store.Infrastructure.csproj.AssemblyReference.cache
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\obj\Debug\net5.0\Clean_Store.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\obj\Debug\net5.0\Clean_Store.Infrastructure.AssemblyInfoInputs.cache
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\obj\Debug\net5.0\Clean_Store.Infrastructure.AssemblyInfo.cs
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\obj\Debug\net5.0\Clean_Store.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\obj\Debug\net5.0\Clean_Store.Infrastructure.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\obj\Debug\net5.0\ref\Clean_Store.Infrastructure.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Infrastructure\obj\Debug\net5.0\Clean_Store.Infrastructure.pdb

@@ -1,0 +1,17 @@
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\bin\Debug\net5.0\Clean_Store.Application.deps.json
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\bin\Debug\net5.0\Clean_Store.Application.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\bin\Debug\net5.0\ref\Clean_Store.Application.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\bin\Debug\net5.0\Clean_Store.Application.pdb
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\bin\Debug\net5.0\Clean_Store.Domain.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\bin\Debug\net5.0\Clean_Store.Domain.pdb
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\obj\Debug\net5.0\Clean_Store.Application.csproj.AssemblyReference.cache
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\obj\Debug\net5.0\Clean_Store.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\obj\Debug\net5.0\Clean_Store.Application.AssemblyInfoInputs.cache
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\obj\Debug\net5.0\Clean_Store.Application.AssemblyInfo.cs
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\obj\Debug\net5.0\Clean_Store.Application.csproj.CoreCompileInputs.cache
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\obj\Debug\net5.0\Clean_Store.Application.csproj.CopyComplete
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\obj\Debug\net5.0\Clean_Store.Application.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\obj\Debug\net5.0\ref\Clean_Store.Application.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\obj\Debug\net5.0\Clean_Store.Application.pdb
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\bin\Debug\net5.0\Clean_Store.Common.dll
+D:\Asp.net core Traning\Clean_Store\Clean_Store.Application\bin\Debug\net5.0\Clean_Store.Common.pdb

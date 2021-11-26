@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ji8Yeoy7pMfBjsE4A7B/P7PS1gQLAaYInppZqlxAAlYl4Aec+yHddOq6uDTCWFqW8IdZ0/RJGejS2B5QQMFaZA==",
+  "success": true,
+  "projectFilePath": "D:\\Asp.net core Traning\\Clean_Store\\Clean_Store.Common\\Clean_Store.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.12\\microsoft.aspnetcore.cryptography.internal.5.0.12.nupkg.sha512",
+    "C:\\Users\\Abbas\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.12\\microsoft.aspnetcore.cryptography.keyderivation.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
